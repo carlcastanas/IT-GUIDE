@@ -97,4 +97,4 @@
 | NSTP 1 and 2 | 6 | National Service Training Program | - |
 
 Created by [carlcastanas](https://www.instagram.com/carlcastanas)  
-GitHub: [Your GitHub Link](https://github.com/carlcastanas)
+GitHub: [carlcastanas](https://github.com/carlcastanas)
